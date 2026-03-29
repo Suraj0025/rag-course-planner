@@ -1,0 +1,9 @@
+[
+  {
+    "local_path": "data/raw/sample.txt",
+    "url": "https://example.com",
+    "doc_type": "course",
+    "title": "Sample Course",
+    "accessed": "March 2026"
+  }
+]
