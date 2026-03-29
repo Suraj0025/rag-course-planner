@@ -47,12 +47,11 @@ streamlit run app.py
 Example
 
 Input:
-
 What are prerequisites for CS301?
 
 Output:
-
 CS301 requires CS101 and MATH120.
+
 Project Structure
 rag-course-planner/
 ├── ingestion/
@@ -63,19 +62,17 @@ rag-course-planner/
 ├── cli.py
 ├── build_index.py
 └── requirements.txt
+
 Notes
 Runs locally without API keys
 Designed for simplicity and correctness
 Easily extendable with better models or UI
-Author
 
+Author
 Suraj Pandurang Mahadik
 
 
----
-
-# 🔥 Why this is perfect
-
+#  Why this is perfect
 - Clean ✅  
 - Short ✅  
 - Professional ✅  
